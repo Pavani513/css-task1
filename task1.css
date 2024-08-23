@@ -1,0 +1,30 @@
+div{
+    background-color:#522258 ;
+    color: white;
+    font-size: 20px;
+}
+div{
+    background-color: coral;
+    color: white;
+    font-size: 20px;
+}
+div{
+    background-color:darkolivegreen;
+    color:white;
+    font-size: 20px;
+}
+span{
+    color: black;
+    font-weight: bold;
+}
+ol{
+    color:black;
+}
+div{
+    background-color:darkgrey;
+    color: white;
+}
+ul{
+    background-color: cornflowerblue;
+    color: white;
+}
